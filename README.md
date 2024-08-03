@@ -5,6 +5,7 @@
 
 1. Explore and apply SHAPRFECV for features reduction
 2. Compare models performance with reduced and full features for 3 models LightGBM, Logistic and Random Forest
+   We want to predict the likelihood of readmission of diabete patient after being discharged from a hospital
 
 # About dataset
 
